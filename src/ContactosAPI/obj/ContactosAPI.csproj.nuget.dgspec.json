@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosAPI\\ContactosAPI.csproj": {}
+    "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosApi\\ContactosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosAPI\\ContactosAPI.csproj": {
+    "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosApi\\ContactosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosAPI\\ContactosAPI.csproj",
+        "projectUniqueName": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosApi\\ContactosAPI.csproj",
         "projectName": "ContactosAPI",
-        "projectPath": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosAPI\\ContactosAPI.csproj",
+        "projectPath": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosApi\\ContactosAPI.csproj",
         "packagesPath": "C:\\Users\\andyr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosAPI\\obj\\",
+        "outputPath": "C:\\Users\\andyr\\Proyecto analisis\\src\\ContactosApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
